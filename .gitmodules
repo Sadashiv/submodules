@@ -1,3 +1,3 @@
 [submodule "rpm"]
 	path = rpm
-	url = git@github.com:Sadashivhb/rpm
+	url = git@github.com:Sadashivhb/rpm/SPECS
